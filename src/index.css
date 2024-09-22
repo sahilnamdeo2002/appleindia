@@ -1,0 +1,14 @@
+/* Ensure the background image covers the entire screen */
+body, html {
+    height: 100%;
+    margin: 0;
+    padding: 0;
+    background-size: cover; /* Scales the image to cover the entire screen */
+    background-repeat: no-repeat; /* Prevents the image from repeating */
+    background-position: center center; /* Keeps the image centered */
+    background-attachment: fixed; /* Keeps the background in place while scrolling */
+    ::-webkit-scrollbar {
+        display: none; /* Hides the scrollbar */
+    }
+    
+}

@@ -1,0 +1,57 @@
+
+.nav{
+  position: fixed;
+  justify-content: space-between;
+margin-left: 25px;
+width: 100%;
+}
+.first {
+  background-color: black;
+  color: white;
+  padding: 5px 20px; /* Reduce vertical padding */
+  box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+/* List styling */
+.first ul {
+
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  justify-content: space-around; /* Keeps items spaced out */
+}
+
+/* List item styling */
+.first ul li {
+  
+  font-family: "Gowun Batang", serif;
+  font-weight: 400;
+  font-style: normal;
+  display: inline;
+  padding: 5px 15px; /* Reduce padding for list items */
+  font-size: 14px; /* Reduce font size */
+  cursor: pointer;
+  transition: color 0.3s ease-in-out, background-color 0.3s ease-in-out;
+}
+
+/* Hover effect */
+.first ul li:hover {
+  color: #0071e3; /* Apple blue color */
+  background-color: rgba(0, 113, 227, 0.1); /* Light blue background */
+  border-radius: 5px;
+}
+
+/* Media query for mobile screens */
+@media (max-width: 768px) {
+  .first ul {
+      display: block;
+      text-align: center;
+  }
+
+  .first ul li {
+      padding: 10px; /* Adjust for mobile */
+      font-size: 16px; /* Font size for mobile */
+      margin: 5px 0; /* Space between items on mobile */
+  }
+}
