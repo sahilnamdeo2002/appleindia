@@ -1,36 +1,42 @@
-.home {
-    background-image: url("../../images/background.png");
-    height: 100vh;
-    margin: 0;
-    padding: 0;
-    background-size: cover;
-    background-repeat: no-repeat;
-    background-position: center center;
-    background-attachment: fixed;
-    width: 100%; 
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    
-}
 
+  
+  .home img {
+    margin-top: 0;
+    width: 100%; /* Reduce the size of the image */
+    height: 100%; /* Maintain the aspect ratio */
+    object-fit: cover; 
+    background-size:cover;
+  }
+
+  
 .button {
-    font-family: "Gowun Batang", serif;
-    font-weight: 400;
-    font-style: normal;
-    
-   
-    background-color: rgb(40, 40, 126);
-    border: none; 
-    color: white; 
-    padding: 10px 20px; 
-    border-radius: 20px;
-    margin-top: 335px;
-    margin-left: -20px;
+    padding: 10px 20px;
+    font-size: 18px;
+    background-color: #007bff;
+    color: white;
+    border: none;
+    border-radius: 5px;
     cursor: pointer;
-    transition: background-color 0.3s;
-}
+    margin-bottom: 20px; /* Space between button and the text below */
+    margin-left: 600px;
+    text-align: center;
+    align-items: center;
 
-.button:hover {
-    background-color: rgb(60, 60, 180); 
+  }
+  .imgg{
+    margin-top: 80px;
+  }
+
+.text, .ff {
+    color: white; /* Ensure the text is visible on the background */
+    font-size: 24px;
+    margin: 0; /* Remove default margin from p tags */
+    text-align: center; /* Center the text */
+  }
+  
+
+
+.second1 img {
+  overflow:auto;
+    margin-top: 50px;
 }
