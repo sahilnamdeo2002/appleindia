@@ -9,55 +9,211 @@ const Navbar = () => {
         <ul>
           <li>
             <FaApple />
-            <div className='slider'>Apple Products</div>
+            <div className='slider'>
+      Explore Support         Get Help        HelpFull Topics
+        Iphone                Community       Get AppleCase+
+        Mac                   Check Coverage  Apple ID & Password
+        Ipad                  Repair           Billing & Subscription 
+        Watch                 Contact Us        Find My 
+        Airpods                                 Assessibility     
+        Music
+        TV
+
+      Explore Support  
+
+            </div>
           </li>
           <li>
             Store
-            <div className='slider'>Visit our store</div>
+            <div className='slider'>
+      Explore Support         Get Help        HelpFull Topics
+        Iphone                Community       Get AppleCase+
+        Mac                   Check Coverage  Apple ID & Password
+        Ipad                  Repair           Billing & Subscription 
+        Watch                 Contact Us        Find My 
+        Airpods                                 Assessibility     
+        Music
+        TV
+
+      Explore Support  
+
+            </div>
           </li>
           <li>
             Mac
-            <div className='slider'>Explore Mac products</div>
+            <div className='slider'>
+      Explore Support         Get Help        HelpFull Topics
+        Iphone                Community       Get AppleCase+
+        Mac                   Check Coverage  Apple ID & Password
+        Ipad                  Repair           Billing & Subscription 
+        Watch                 Contact Us        Find My 
+        Airpods                                 Assessibility     
+        Music
+        TV
+
+      Explore Support  
+
+            </div>
           </li>
           <li>
             Ipad
-            <div className='slider'>Check out the latest iPads</div>
+            <div className='slider'>
+      Explore Support         Get Help        HelpFull Topics
+        Iphone                Community       Get AppleCase+
+        Mac                   Check Coverage  Apple ID & Password
+        Ipad                  Repair           Billing & Subscription 
+        Watch                 Contact Us        Find My 
+        Airpods                                 Assessibility     
+        Music
+        TV
+
+      Explore Support  
+
+            </div>
           </li>
           <li>
             Iphone
-            <div className='slider'>Discover new iPhones</div>
+            <div className='slider'>
+      Explore Support         Get Help        HelpFull Topics
+        Iphone                Community       Get AppleCase+
+        Mac                   Check Coverage  Apple ID & Password
+        Ipad                  Repair           Billing & Subscription 
+        Watch                 Contact Us        Find My 
+        Airpods                                 Assessibility     
+        Music
+        TV
+
+      Explore Support  
+
+            </div>
           </li>
           <li>
             Watch
-            <div className='slider'>Stay fit with Apple Watch</div>
+            <div className='slider'>
+      Explore Support         Get Help        HelpFull Topics
+        Iphone                Community       Get AppleCase+
+        Mac                   Check Coverage  Apple ID & Password
+        Ipad                  Repair           Billing & Subscription 
+        Watch                 Contact Us        Find My 
+        Airpods                                 Assessibility     
+        Music
+        TV
+
+      Explore Support  
+
+            </div>
           </li>
           <li>
             AirPods
-            <div className='slider'>Wireless freedom</div>
+            <div className='slider'>
+      Explore Support         Get Help        HelpFull Topics
+        Iphone                Community       Get AppleCase+
+        Mac                   Check Coverage  Apple ID & Password
+        Ipad                  Repair           Billing & Subscription 
+        Watch                 Contact Us        Find My 
+        Airpods                                 Assessibility     
+        Music
+        TV
+
+      Explore Support  
+
+            </div>
           </li>
           <li>
             Tv & Home
-            <div className='slider'>Enhance your home entertainment</div>
+            <div className='slider'>
+      Explore Support         Get Help        HelpFull Topics
+        Iphone                Community       Get AppleCase+
+        Mac                   Check Coverage  Apple ID & Password
+        Ipad                  Repair           Billing & Subscription 
+        Watch                 Contact Us        Find My 
+        Airpods                                 Assessibility     
+        Music
+        TV
+
+      Explore Support  
+
+            </div>
           </li>
           <li>
             Entertainment
-            <div className='slider'>Music, movies, and more</div>
+            <div className='slider'>
+      Explore Support         Get Help        HelpFull Topics
+        Iphone                Community       Get AppleCase+
+        Mac                   Check Coverage  Apple ID & Password
+        Ipad                  Repair           Billing & Subscription 
+        Watch                 Contact Us        Find My 
+        Airpods                                 Assessibility     
+        Music
+        TV
+
+      Explore Support  
+
+            </div>
           </li>
           <li>
             Accessories
-            <div className='slider'>Find the perfect accessories</div>
+            <div className='slider'>
+      Explore Support         Get Help        HelpFull Topics
+        Iphone                Community       Get AppleCase+
+        Mac                   Check Coverage  Apple ID & Password
+        Ipad                  Repair           Billing & Subscription 
+        Watch                 Contact Us        Find My 
+        Airpods                                 Assessibility     
+        Music
+        TV
+
+      Explore Support  
+
+            </div>
           </li>
           <li>
             Support
-            <div className='slider'>Get help and support</div>
+            <div className='slider'>
+      Explore Support         Get Help        HelpFull Topics
+        Iphone                Community       Get AppleCase+
+        Mac                   Check Coverage  Apple ID & Password
+        Ipad                  Repair           Billing & Subscription 
+        Watch                 Contact Us        Find My 
+        Airpods                                 Assessibility     
+        Music
+        TV
+
+      Explore Support  
+
+            </div>
           </li>
           <li>
             <FaSearch />
-            <div className='slider'>Search for products</div>
+            <div className='slider'>
+      Explore Support         Get Help        HelpFull Topics
+        Iphone                Community       Get AppleCase+
+        Mac                   Check Coverage  Apple ID & Password
+        Ipad                  Repair           Billing & Subscription 
+        Watch                 Contact Us        Find My 
+        Airpods                                 Assessibility     
+        Music
+        TV
+
+      Explore Support  
+
+            </div>
           </li>
           <li>
             <FaShoppingCart />
-            <div className='slider'>View your cart</div>
+            <div className='slider'>
+       Explore Support         Get Help        HelpFull Topics
+        Iphone                Community       Get AppleCase+
+        Mac                   Check Coverage  Apple ID & Password
+        Ipad                  Repair           Billing & Subscription 
+        Watch                 Contact Us        Find My 
+        Airpods                                 Assessibility     
+        Music
+        TV
+
+      Explore Support  
+
+            </div>
           </li>
         </ul>
       </div>
