@@ -25,6 +25,9 @@ const Navbar = () => {
           </li>
           <li>
             Store
+
+
+
             <div className='slider'>
       Explore Support         Get Help        HelpFull Topics
         Iphone                Community       Get AppleCase+
@@ -37,7 +40,12 @@ const Navbar = () => {
 
       Explore Support  
 
+
+
+
             </div>
+
+            
           </li>
           <li>
             Mac
@@ -216,7 +224,16 @@ const Navbar = () => {
             </div>
           </li>
         </ul>
+
+
+
+
+
+
+
       </div>
+
+      
     </div>
   );
 };
